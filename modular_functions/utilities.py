@@ -15,3 +15,4 @@ if __name__ == '__main__':
     x = greet("NCF")
     if x == "Hello,NCF!":
         print("Test passed")
+    print ("done")
